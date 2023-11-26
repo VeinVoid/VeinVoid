@@ -2,8 +2,6 @@
 
 # 🛠 Language and tools
 
-<img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -83,7 +81,7 @@
 - 📚 I'm currently learning ...
 - ⚡ In my free time I ...</p>
 </div>
-
+<img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
 ###
 
 <div align="left">
