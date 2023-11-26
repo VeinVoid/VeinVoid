@@ -73,7 +73,7 @@
 <br>
 
 # 👩‍💻  About Me 
-<img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
+<img align="right" height="300" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
 <div align="left">
   <p>I'm ... from ....
 
@@ -109,5 +109,5 @@
 </div>
 
 ![](https://github-contributor-stats.vercel.app/api?username=veinvoid&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<br>
 <br clear="both">
