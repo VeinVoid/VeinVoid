@@ -96,11 +96,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veinvoid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veinvoid&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=veinvoid&limit=5&theme=dark&combine_all_yearly_contributions=true" width="250" alt="contributor graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=veinvoid&limit=5&theme=dark&combine_all_yearly_contributions=true" width="250" alt="stats graph"  />
-</div>
 
 <br clear="both">
 
