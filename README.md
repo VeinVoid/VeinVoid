@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Vicko Amelino Syahputra and I'm a Backend Developer, from Indonesia</h2>
 
-#📊 GitHub Stats:
+###
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veinvoid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
