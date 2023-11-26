@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vicko Amelino Syahputra</h2>
+<h2 align="center">Hi 👋! My name is Vicko Amelino Syahputra</h2>
 
 # 🛠 Language and tools
 
