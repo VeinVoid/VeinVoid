@@ -1,10 +1,8 @@
 <h2 align="left">Hi 👋! My name is Vicko Amelino Syahputra and I'm a Backend Developer, from Indonesia</h2>
 
-# a
+# 
 
 <img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
