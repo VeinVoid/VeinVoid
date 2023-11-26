@@ -76,6 +76,14 @@
 
 # 👩‍💻  About Me 
 
+<div>
+  <p>I'm ... from ....
+
+- 🔭 I’m working as ...
+- 📚 I'm currently learning ...
+- ⚡ In my free time I ...</p>
+</div>
+
 ###
 
 <div align="left">
