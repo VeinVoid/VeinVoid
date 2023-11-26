@@ -101,7 +101,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=veinvoid&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="stats graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=veinvoid&limit=5&theme=dark&combine_all_yearly_contributions=true" width="250" alt="stats graph"  />
 </div>
 
 <br clear="both">
