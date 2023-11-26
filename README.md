@@ -73,14 +73,16 @@
 <br>
 
 # 👩‍💻  About Me 
-<img align="right" height="300" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
 <div align="left">
-  <p>I'm ... from ....
+  <p>I'm Vicko Amelino from Indonesia
 
 - 🔭 I’m working as ...
 - 📚 I'm currently learning ...
 - ⚡ In my free time I ...</p>
 </div>
+<br>
+<br>
 
 ###
 
