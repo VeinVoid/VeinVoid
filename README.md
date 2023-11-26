@@ -74,13 +74,14 @@
 
 # 👩‍💻  About Me 
 <img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
-<div>
+<div align="left">
   <p>I'm ... from ....
 
 - 🔭 I’m working as ...
 - 📚 I'm currently learning ...
 - ⚡ In my free time I ...</p>
 </div>
+
 ###
 
 <div align="left">
