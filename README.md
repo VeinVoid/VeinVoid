@@ -73,7 +73,7 @@
 <br>
 
 # 👩‍💻  About Me 
-
+<img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
 <div>
   <p>I'm ... from ....
 
@@ -81,7 +81,6 @@
 - 📚 I'm currently learning ...
 - ⚡ In my free time I ...</p>
 </div>
-<img align="right" height="150" src="https://media.tenor.com/nMiizlAiknIAAAAd/oozora-subaru.gif"  />
 ###
 
 <div align="left">
