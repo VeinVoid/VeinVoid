@@ -77,9 +77,9 @@
 <div align="left">
   <p>I'm Vicko Amelino from Indonesia
 
-- 🔭 I’m working as ...
-- 📚 I'm currently learning ...
-- ⚡ In my free time I ...</p>
+- 🔭 I’m working as Backend Developer
+- 📚 I'm currently learning Laravel and Next Js
+- ⚡ In my free time I playing game and watch anime</p>
 </div>
 <br>
 <br>
